@@ -21,8 +21,8 @@
         }
     ],
     "require": {
-        "typo3/cms-core": "10.1.*@dev",
-        "typo3/cms-configuration": "10.1.*@dev",
+        "typo3/cms-core": "10.2.*@dev",
+        "typo3/cms-configuration": "10.2.*@dev",
         "hoa/compiler": "^3.0",
         "webmozart/assert": "^1.0",
         "webonyx/graphql-php": "^0.13"
